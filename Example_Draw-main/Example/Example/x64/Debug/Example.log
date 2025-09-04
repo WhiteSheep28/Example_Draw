@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\admin\Downloads\Example_Draw-main\Example\Example\main.cpp(55,22): warning C4101: 'oldBrush' :참조되지 않은 지역 변수입니다.
+C:\Users\admin\Downloads\Example_Draw-main\Example\Example\main.cpp(55,12): warning C4101: 'newBrush' :참조되지 않은 지역 변수입니다.
+C:\Users\admin\Downloads\Example_Draw-main\Example\Example\main.cpp(56,18): warning C4101: 'oldPen' :참조되지 않은 지역 변수입니다.
+C:\Users\admin\Downloads\Example_Draw-main\Example\Example\main.cpp(56,10): warning C4101: 'newPen' :참조되지 않은 지역 변수입니다.
+  Example.vcxproj -> C:\Users\admin\Downloads\Example_Draw-main\Example\x64\Debug\Example.exe
